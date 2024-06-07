@@ -25,11 +25,7 @@ export const Navbar = () => {
         <li>
           <NavLink to="/">Blog</NavLink>
         </li>
-        <li>
-          <NavLink to="https://forum.revnitro.com/" target="_blank">
-            Forum
-          </NavLink>
-        </li>
+    
 
     <li>
           <NavLink to="https://revnitro.com/commingsoon.html" target="_blank">
@@ -37,16 +33,28 @@ export const Navbar = () => {
           </NavLink>
         </li>
 
+      <li>
+          <NavLink to="https://revnitro.com/commingsoon.html" target="_blank">
+            Shop
+          </NavLink>
+        </li>
+
+      <li>
+          <NavLink to="https://forum.revnitro.com/" target="_blank">
+            Forum
+          </NavLink>
+        </li>
+
   
   
         <li>
-          <NavLink to="/Team">Jobs</NavLink>
+          <NavLink to="https://revnitro.com/car&bike-event.html">Events</NavLink>
         </li>
         <li>
           <NavLink to="/Shop">Team</NavLink>
         </li>
         <li>
-          <NavLink to="/Shop">Events</NavLink>
+          <NavLink to="https://forms.revnitro.com/Contact">Contact Us</NavLink>
         </li>
       </ul>
     </nav>
