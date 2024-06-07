@@ -30,6 +30,15 @@ export const Navbar = () => {
             Forum
           </NavLink>
         </li>
+
+    <li>
+          <NavLink to="https://revnitro.com/commingsoon.html" target="_blank">
+            Classified
+          </NavLink>
+        </li>
+
+  
+  
         <li>
           <NavLink to="/Team">Jobs</NavLink>
         </li>
